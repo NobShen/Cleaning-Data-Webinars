@@ -1,5 +1,7 @@
 # Cleaning-Data-Webinars
 
+First do a git clone
+
 This repository contains material associated with the series
 of webinars on cleaning data I deliver for Safari Online,
 in association with my Addison Wesley book:
